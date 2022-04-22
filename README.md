@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 Module 17 Machine Learning
 
-The written analysis has the following:
+This analysis was done to predict credit risk by looking at attributes associated with low-risk & high risk loans for the bank. We used several methods including oversampling, SMOTE, undersampling & others to predict this risk. While none of these models were perfect, they all showed us different ways to evaluate the samples that were given to us. 
 
 Overview of the loan prediction risk analysis:
 
